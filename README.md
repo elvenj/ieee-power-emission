@@ -2,10 +2,6 @@
 
 This repository contains the data and code used in the bibliometric analysis of publications related to the mitigation of pollutant gas emissions in the planning and operation of electrical power systems.
 
-## Data Files
-
-The CSV files containing the data can be found in the `data` folder.
-
 ## Analysis Notebook
 
 The `Bibliometric Analysis of Publications on Emission Mitigation in Power Systems.ipynb` notebook contains the code used to process the data and generate the graphs. You can open and run this notebook in Google Colab or in a local Jupyter environment.
