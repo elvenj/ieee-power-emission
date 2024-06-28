@@ -28,4 +28,4 @@ Or, open it directly in Google Colab by clicking [here](https://colab.research.g
 
 ## Contact
 
-For more information, contact me at [elven@estudante.ufscar.br].
+For more information, contact me at [elven@estudante.ufscar.br] or social pages here: https://www.linkedin.com/in/elven-jr 
